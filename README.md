@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+### Name: HARI PRASATH. P
+### Reg. No: 212223230070
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
